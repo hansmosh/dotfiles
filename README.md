@@ -10,7 +10,7 @@ Installation
 
 Clone dotfiles into home directory:
 
-    git clone --recursive git@github.com:hansmosh/dotphiles.git ~/.dotfiles
+    git clone --recursive git@github.com:hansmosh/dotfiles.git ~/.dotfiles
 
 Then, symlink your dotfiles into place:
 
